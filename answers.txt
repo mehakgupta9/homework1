@@ -1,0 +1,2 @@
+What is a remote repository?
+Remote repositories are accessible to everyone.
