@@ -1,0 +1,3 @@
+What is the difference between a merge and a rebase?
+Merge helps in combining all the contents of different files into a single repository.
+Rebase can be used to modify the past commit.
